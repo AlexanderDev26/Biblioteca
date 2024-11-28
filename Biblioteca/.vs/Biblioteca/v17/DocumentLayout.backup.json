@@ -1,0 +1,488 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44FA770B-E892-44CA-B932-2546806724A7}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.infrastructure\\ioc\\dependecyinjection\\bibliotecadi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FA770B-E892-44CA-B932-2546806724A7}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|solutionrelative:biblioteca.infrastructure\\ioc\\dependecyinjection\\bibliotecadi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2978E555-2496-401E-906C-0553A25E7056}|Biblioteca.Application\\Biblioteca.Application.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.application\\services\\biblioteca\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2978E555-2496-401E-906C-0553A25E7056}|Biblioteca.Application\\Biblioteca.Application.csproj|solutionrelative:biblioteca.application\\services\\biblioteca\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FA770B-E892-44CA-B932-2546806724A7}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.infrastructure\\migrations\\biblioteca\\academicdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FA770B-E892-44CA-B932-2546806724A7}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|solutionrelative:biblioteca.infrastructure\\migrations\\biblioteca\\academicdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FA770B-E892-44CA-B932-2546806724A7}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.infrastructure\\database\\entityframework\\repositories\\bibliotecarepositoriesmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FA770B-E892-44CA-B932-2546806724A7}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|solutionrelative:biblioteca.infrastructure\\database\\entityframework\\repositories\\bibliotecarepositoriesmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06D41F7-7B2B-492B-AF5D-C0D69593153D}|Biblioteca.Domain\\Biblioteca.Domain.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.domain\\repositories\\ibibliotecarepositoriesmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06D41F7-7B2B-492B-AF5D-C0D69593153D}|Biblioteca.Domain\\Biblioteca.Domain.csproj|solutionrelative:biblioteca.domain\\repositories\\ibibliotecarepositoriesmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FA770B-E892-44CA-B932-2546806724A7}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.infrastructure\\database\\entityframework\\repositories\\biblioteca\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FA770B-E892-44CA-B932-2546806724A7}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|solutionrelative:biblioteca.infrastructure\\database\\entityframework\\repositories\\biblioteca\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FA770B-E892-44CA-B932-2546806724A7}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.infrastructure\\database\\entityframework\\extensions\\biblioteca\\usuarioextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FA770B-E892-44CA-B932-2546806724A7}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|solutionrelative:biblioteca.infrastructure\\database\\entityframework\\extensions\\biblioteca\\usuarioextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2978E555-2496-401E-906C-0553A25E7056}|Biblioteca.Application\\Biblioteca.Application.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.application\\validator\\biblioteca\\usuariovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2978E555-2496-401E-906C-0553A25E7056}|Biblioteca.Application\\Biblioteca.Application.csproj|solutionrelative:biblioteca.application\\validator\\biblioteca\\usuariovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FA770B-E892-44CA-B932-2546806724A7}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.infrastructure\\database\\entityframework\\entities\\biblioteca\\usuarioentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FA770B-E892-44CA-B932-2546806724A7}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|solutionrelative:biblioteca.infrastructure\\database\\entityframework\\entities\\biblioteca\\usuarioentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06D41F7-7B2B-492B-AF5D-C0D69593153D}|Biblioteca.Domain\\Biblioteca.Domain.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.domain\\models\\biblioteca\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06D41F7-7B2B-492B-AF5D-C0D69593153D}|Biblioteca.Domain\\Biblioteca.Domain.csproj|solutionrelative:biblioteca.domain\\models\\biblioteca\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06D41F7-7B2B-492B-AF5D-C0D69593153D}|Biblioteca.Domain\\Biblioteca.Domain.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.domain\\enum\\biblioteca\\rolenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06D41F7-7B2B-492B-AF5D-C0D69593153D}|Biblioteca.Domain\\Biblioteca.Domain.csproj|solutionrelative:biblioteca.domain\\enum\\biblioteca\\rolenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FA770B-E892-44CA-B932-2546806724A7}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.infrastructure\\database\\entityframework\\context\\bibliotecadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FA770B-E892-44CA-B932-2546806724A7}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|solutionrelative:biblioteca.infrastructure\\database\\entityframework\\context\\bibliotecadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FA770B-E892-44CA-B932-2546806724A7}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.infrastructure\\database\\entityframework\\context\\biblioteca\\usuarioconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FA770B-E892-44CA-B932-2546806724A7}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|solutionrelative:biblioteca.infrastructure\\database\\entityframework\\context\\biblioteca\\usuarioconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06D41F7-7B2B-492B-AF5D-C0D69593153D}|Biblioteca.Domain\\Biblioteca.Domain.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.domain\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06D41F7-7B2B-492B-AF5D-C0D69593153D}|Biblioteca.Domain\\Biblioteca.Domain.csproj|solutionrelative:biblioteca.domain\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2978E555-2496-401E-906C-0553A25E7056}|Biblioteca.Application\\Biblioteca.Application.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.application\\token\\jwttokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2978E555-2496-401E-906C-0553A25E7056}|Biblioteca.Application\\Biblioteca.Application.csproj|solutionrelative:biblioteca.application\\token\\jwttokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06D41F7-7B2B-492B-AF5D-C0D69593153D}|Biblioteca.Domain\\Biblioteca.Domain.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.domain\\repositories\\biblioteca\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06D41F7-7B2B-492B-AF5D-C0D69593153D}|Biblioteca.Domain\\Biblioteca.Domain.csproj|solutionrelative:biblioteca.domain\\repositories\\biblioteca\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2978E555-2496-401E-906C-0553A25E7056}|Biblioteca.Application\\Biblioteca.Application.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.application\\biblioteca.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2978E555-2496-401E-906C-0553A25E7056}|Biblioteca.Application\\Biblioteca.Application.csproj|solutionrelative:biblioteca.application\\biblioteca.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06D41F7-7B2B-492B-AF5D-C0D69593153D}|Biblioteca.Domain\\Biblioteca.Domain.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.domain\\models\\biblioteca\\libromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06D41F7-7B2B-492B-AF5D-C0D69593153D}|Biblioteca.Domain\\Biblioteca.Domain.csproj|solutionrelative:biblioteca.domain\\models\\biblioteca\\libromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FA770B-E892-44CA-B932-2546806724A7}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.infrastructure\\database\\entityframework\\repositories\\common\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FA770B-E892-44CA-B932-2546806724A7}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|solutionrelative:biblioteca.infrastructure\\database\\entityframework\\repositories\\common\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FA770B-E892-44CA-B932-2546806724A7}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.infrastructure\\database\\entityframework\\repositories\\common\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FA770B-E892-44CA-B932-2546806724A7}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|solutionrelative:biblioteca.infrastructure\\database\\entityframework\\repositories\\common\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FA770B-E892-44CA-B932-2546806724A7}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.infrastructure\\database\\entityframework\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FA770B-E892-44CA-B932-2546806724A7}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|solutionrelative:biblioteca.infrastructure\\database\\entityframework\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06D41F7-7B2B-492B-AF5D-C0D69593153D}|Biblioteca.Domain\\Biblioteca.Domain.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.domain\\repositories\\common\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06D41F7-7B2B-492B-AF5D-C0D69593153D}|Biblioteca.Domain\\Biblioteca.Domain.csproj|solutionrelative:biblioteca.domain\\repositories\\common\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06D41F7-7B2B-492B-AF5D-C0D69593153D}|Biblioteca.Domain\\Biblioteca.Domain.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.domain\\repositories\\common\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06D41F7-7B2B-492B-AF5D-C0D69593153D}|Biblioteca.Domain\\Biblioteca.Domain.csproj|solutionrelative:biblioteca.domain\\repositories\\common\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06D41F7-7B2B-492B-AF5D-C0D69593153D}|Biblioteca.Domain\\Biblioteca.Domain.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.domain\\response\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06D41F7-7B2B-492B-AF5D-C0D69593153D}|Biblioteca.Domain\\Biblioteca.Domain.csproj|solutionrelative:biblioteca.domain\\response\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06D41F7-7B2B-492B-AF5D-C0D69593153D}|Biblioteca.Domain\\Biblioteca.Domain.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.domain\\biblioteca.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A06D41F7-7B2B-492B-AF5D-C0D69593153D}|Biblioteca.Domain\\Biblioteca.Domain.csproj|solutionrelative:biblioteca.domain\\biblioteca.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4BC606-1E00-4D6D-8ABA-F2B4F4BF003B}|Biblioteca.Api\\Biblioteca.Api.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4BC606-1E00-4D6D-8ABA-F2B4F4BF003B}|Biblioteca.Api\\Biblioteca.Api.csproj|solutionrelative:biblioteca.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FA770B-E892-44CA-B932-2546806724A7}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FA770B-E892-44CA-B932-2546806724A7}|Biblioteca.Infrastructure\\Biblioteca.Infrastructure.csproj|solutionrelative:biblioteca.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06D41F7-7B2B-492B-AF5D-C0D69593153D}|Biblioteca.Domain\\Biblioteca.Domain.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06D41F7-7B2B-492B-AF5D-C0D69593153D}|Biblioteca.Domain\\Biblioteca.Domain.csproj|solutionrelative:biblioteca.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2978E555-2496-401E-906C-0553A25E7056}|Biblioteca.Application\\Biblioteca.Application.csproj|c:\\users\\alexander\\source\\repos\\biblioteca\\biblioteca.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2978E555-2496-401E-906C-0553A25E7056}|Biblioteca.Application\\Biblioteca.Application.csproj|solutionrelative:biblioteca.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AcademicDBcontextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Infrastructure\\Migrations\\Biblioteca\\AcademicDBcontextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Infrastructure\\Migrations\\Biblioteca\\AcademicDBcontextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Infrastructure\\Migrations\\Biblioteca\\AcademicDBcontextModelSnapshot.cs",
+              "RelativeToolTip": "Biblioteca.Infrastructure\\Migrations\\Biblioteca\\AcademicDBcontextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:40:08.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BibliotecaDI.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Infrastructure\\IoC\\DependecyInjection\\BibliotecaDI.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Infrastructure\\IoC\\DependecyInjection\\BibliotecaDI.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Infrastructure\\IoC\\DependecyInjection\\BibliotecaDI.cs",
+              "RelativeToolTip": "Biblioteca.Infrastructure\\IoC\\DependecyInjection\\BibliotecaDI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:10:16.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BibliotecaRepositoriesModule.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Repositories\\BibliotecaRepositoriesModule.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Repositories\\BibliotecaRepositoriesModule.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Repositories\\BibliotecaRepositoriesModule.cs",
+              "RelativeToolTip": "Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Repositories\\BibliotecaRepositoriesModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:30:01.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Application\\Services\\Biblioteca\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Application\\Services\\Biblioteca\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Application\\Services\\Biblioteca\\UsuarioService.cs",
+              "RelativeToolTip": "Biblioteca.Application\\Services\\Biblioteca\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:15:03.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Extensions\\Biblioteca\\UsuarioExtension.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Extensions\\Biblioteca\\UsuarioExtension.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Extensions\\Biblioteca\\UsuarioExtension.cs",
+              "RelativeToolTip": "Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Extensions\\Biblioteca\\UsuarioExtension.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:47:48.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Repositories\\Biblioteca\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Repositories\\Biblioteca\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Repositories\\Biblioteca\\UsuarioRepository.cs",
+              "RelativeToolTip": "Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Repositories\\Biblioteca\\UsuarioRepository.cs",
+              "ViewState": "AgIAACEAAAAANgAAAAAIwEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:37:57.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBibliotecaRepositoriesModule.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Domain\\Repositories\\IBibliotecaRepositoriesModule.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Domain\\Repositories\\IBibliotecaRepositoriesModule.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Domain\\Repositories\\IBibliotecaRepositoriesModule.cs",
+              "RelativeToolTip": "Biblioteca.Domain\\Repositories\\IBibliotecaRepositoriesModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:03:00.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Application\\Validator\\Biblioteca\\UsuarioValidator.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Application\\Validator\\Biblioteca\\UsuarioValidator.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Application\\Validator\\Biblioteca\\UsuarioValidator.cs",
+              "RelativeToolTip": "Biblioteca.Application\\Validator\\Biblioteca\\UsuarioValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:56:56.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Entities\\Biblioteca\\UsuarioEntity.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Entities\\Biblioteca\\UsuarioEntity.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Entities\\Biblioteca\\UsuarioEntity.cs",
+              "RelativeToolTip": "Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Entities\\Biblioteca\\UsuarioEntity.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:32:23.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Domain\\Models\\Biblioteca\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Domain\\Models\\Biblioteca\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Domain\\Models\\Biblioteca\\UsuarioModel.cs",
+              "RelativeToolTip": "Biblioteca.Domain\\Models\\Biblioteca\\UsuarioModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAB0vRcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:11:10.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RolEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Domain\\Enum\\Biblioteca\\RolEnum.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Domain\\Enum\\Biblioteca\\RolEnum.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Domain\\Enum\\Biblioteca\\RolEnum.cs",
+              "RelativeToolTip": "Biblioteca.Domain\\Enum\\Biblioteca\\RolEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:21:44.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BibliotecaDBcontext.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Context\\BibliotecaDBcontext.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Context\\BibliotecaDBcontext.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Context\\BibliotecaDBcontext.cs",
+              "RelativeToolTip": "Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Context\\BibliotecaDBcontext.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:23:47.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Context\\Biblioteca\\UsuarioConfiguration.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Context\\Biblioteca\\UsuarioConfiguration.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Context\\Biblioteca\\UsuarioConfiguration.cs",
+              "RelativeToolTip": "Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Context\\Biblioteca\\UsuarioConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:38:00.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Domain\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Domain\\Models\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Domain\\Models\\BaseModel.cs",
+              "RelativeToolTip": "Biblioteca.Domain\\Models\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:14:39.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JwtTokenHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Application\\Token\\JwtTokenHelper.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Application\\Token\\JwtTokenHelper.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Application\\Token\\JwtTokenHelper.cs",
+              "RelativeToolTip": "Biblioteca.Application\\Token\\JwtTokenHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:29:58.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Domain\\Repositories\\Biblioteca\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Domain\\Repositories\\Biblioteca\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Domain\\Repositories\\Biblioteca\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Biblioteca.Domain\\Repositories\\Biblioteca\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:04:31.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Biblioteca.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Application\\Biblioteca.Application.csproj",
+              "RelativeDocumentMoniker": "Biblioteca.Application\\Biblioteca.Application.csproj",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Application\\Biblioteca.Application.csproj",
+              "RelativeToolTip": "Biblioteca.Application\\Biblioteca.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T06:04:31.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LibroModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Domain\\Models\\Biblioteca\\LibroModel.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Domain\\Models\\Biblioteca\\LibroModel.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Domain\\Models\\Biblioteca\\LibroModel.cs",
+              "RelativeToolTip": "Biblioteca.Domain\\Models\\Biblioteca\\LibroModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBJwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:31:01.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Repositories\\Common\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Repositories\\Common\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Repositories\\Common\\UnitOfWork.cs",
+              "RelativeToolTip": "Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Repositories\\Common\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:32:59.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Repositories\\Common\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Repositories\\Common\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Repositories\\Common\\GenericRepository.cs",
+              "RelativeToolTip": "Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Repositories\\Common\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:27:58.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Biblioteca.Infrastructure\\DataBase\\EntityFramework\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:31:37.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Domain\\Response\\Result.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Domain\\Response\\Result.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Domain\\Response\\Result.cs",
+              "RelativeToolTip": "Biblioteca.Domain\\Response\\Result.cs",
+              "ViewState": "AgIAAAgAAAAwAAAAAIA1wBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:01:59.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Domain\\Repositories\\Common\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Domain\\Repositories\\Common\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Domain\\Repositories\\Common\\IUnitOfWork.cs",
+              "RelativeToolTip": "Biblioteca.Domain\\Repositories\\Common\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:59:25.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Domain\\Repositories\\Common\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Domain\\Repositories\\Common\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Domain\\Repositories\\Common\\IGenericRepository.cs",
+              "RelativeToolTip": "Biblioteca.Domain\\Repositories\\Common\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:59:07.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Biblioteca.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Domain\\Biblioteca.Domain.csproj",
+              "RelativeDocumentMoniker": "Biblioteca.Domain\\Biblioteca.Domain.csproj",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Domain\\Biblioteca.Domain.csproj",
+              "RelativeToolTip": "Biblioteca.Domain\\Biblioteca.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T02:18:18.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Api\\Program.cs",
+              "RelativeToolTip": "Biblioteca.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:58:52.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Biblioteca.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:55:33.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Domain\\Class1.cs",
+              "RelativeToolTip": "Biblioteca.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:54:09.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Application\\Class1.cs",
+              "RelativeToolTip": "Biblioteca.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:53:45.406Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

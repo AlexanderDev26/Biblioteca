@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "WSimD72Awy0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alexander\\source\\repos\\Biblioteca\\Biblioteca.Application\\Biblioteca.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexander\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.36.0\\microsoft.identitymodel.abstractions.6.36.0.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.36.0\\microsoft.identitymodel.jsonwebtokens.6.36.0.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\microsoft.identitymodel.logging\\6.36.0\\microsoft.identitymodel.logging.6.36.0.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.36.0\\microsoft.identitymodel.tokens.6.36.0.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.36.0\\system.identitymodel.tokens.jwt.6.36.0.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
